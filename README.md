@@ -12,6 +12,6 @@ params:
 
 mandelbrot
 
-julia <n> <n>
+julia (n) (n)
 
 burn
