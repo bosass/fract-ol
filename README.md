@@ -1,4 +1,4 @@
-very slow and unoptimezed fractal exploration program for linux with miniibx
+very slow and unoptimezed fractal exploration program for linux with minilibx
 
 
 to run:
