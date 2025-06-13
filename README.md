@@ -15,3 +15,5 @@ mandelbrot
 julia (n) (n)
 
 burn
+
+scroll wheel and arrows to navigate
