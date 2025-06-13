@@ -5,7 +5,7 @@ to run:
 
 make
 
-./sas <param>
+./sas (param)
 
 
 params:
