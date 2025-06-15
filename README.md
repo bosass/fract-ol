@@ -1,19 +1,15 @@
 very slow and unoptimezed fractal exploration program for linux with minilibx
 
 
-to run:
-
-make
-
-./sas (param)
+to run:</br>
+make</br>
+./sas (param)</br>
 
 
-params:
+params:</br>
+mandelbrot</br>
+julia (n) (n)</br>
+burn</br>
 
-mandelbrot
-
-julia (n) (n)
-
-burn
 
 scroll wheel and arrows to navigate
